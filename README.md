@@ -1,6 +1,7 @@
 # QuickQuasar - A Portfolio of Quasar Programs for Quick Development of Practical Apps
 
 ## Description (1/5/23: This project is in the initial stages of implementation)
+## Description-CAUTION: (1/5/23: This is a repo in smithGit -- there is a separate repo in the QuickQuasar organization: https://github.com/QuickQuasar/QuickQuasar)
 
 This **Quick Quasar Project** is a portfolio of Apps using the Quasar framework for both **Single-Page Applications (SPA)** and **Electron** desktop use.  
 
